@@ -1,5 +1,8 @@
 # deeplink
 
+how to setup ??
+https://tii.la/nUAeXep
+
 A new Flutter project.
 
 ## Getting Started
